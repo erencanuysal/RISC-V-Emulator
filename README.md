@@ -5,7 +5,7 @@ You can see detailed info from pdf.
 
 To compile:
 
-**`g++ project.cpp -o main`**
+**`g++ emulator.cpp -o main`**
 
 To run:
 
